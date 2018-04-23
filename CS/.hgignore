@@ -1,0 +1,7 @@
+syntax: glob
+T155725/bin
+T155725/obj
+**.suo
+ReportServer.ConnectionProviders/bin
+ReportServer.ConnectionProviders/obj
+**.user
